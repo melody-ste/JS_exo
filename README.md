@@ -13,9 +13,6 @@ In this repository, you'll find:
 1. Open the `index.html` file in your browser.
 2. Press **F12** (or right-click > "Inspect") to open the **console**.
 3. In the `index.html` file, locate this line:
-
-  ```html
-  <script src="script_1.js"></script>
-  
+<script src="script_1.js"></script>
 4. Change the number (e.g., script_2.js, script_3.js, etc.) to load the corresponding exercise script.
 5. Refresh the browser and check the console output to see the result.
